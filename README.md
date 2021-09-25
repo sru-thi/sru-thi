@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sru-thi
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning B.Tech(IT)
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sruthimeera6@gmail.com
 
 <!---
